@@ -1,7 +1,7 @@
-# MN - TI - UTM - rezolvare exercitiu
-Sa se calculeze un radical cu exactitatea utilizind metoda Newton - V. Patiuc
+# MN - TI - UTM - rezolvare exercitiu (V. Patiuc)
+Sa se calculeze un radical cu exactitatea utilizind metoda Newton 
 
-Aplicatia poate fi deschisa pe [Aici](https://melodious-scone-b7eabf.netlify.app).
+Aplicatia poate fi deschisa [AICI](https://melodious-scone-b7eabf.netlify.app).
 
 ## Descriere
 
